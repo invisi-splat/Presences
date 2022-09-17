@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schemas.premid.app/metadata/1.7",
+    "author": {
+      "name": "invisi.",
+      "id": "458304698827669536"
+    },
+    "service": "b9good",
+    "description": {
+      "en": "b9good is a site for watching raw anime (without subs) for free. It is heavily designed for use by Japanese people.",
+      "jp": "b9good（b9dm）は国内、国外のアニメをまとめる無料のアニメ動画共有サイトです。  アニメだけでなく映画やドラマ、TV番組など様々なジャンルの大量の動画コンテンツが投稿され公開されています。     また日本語に対応しており簡潔でわかりやすいカテゴリわけ、更新スピードの迅速さ、無料で高画質なアニメが視聴できます。"
+    },
+    "url": "b9good.com",
+    "version": "1.0.0",
+    "logo": "http://b9good.com/favicon.ico",
+    "thumbnail": "https://i.imgur.com/msgjfad.png",
+    "color": "#f16f37",
+    "category": "anime",
+    "tags": [
+      "anime",
+      "free",
+      "raw",
+      "japanese"
+    ]
+  }
